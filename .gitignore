@@ -3,3 +3,4 @@ frontend/components
 .idea
 tmp/
 package-lock.json
+dist/
