@@ -16,7 +16,7 @@
     "awesome-module": "1.1.0",
     "express": "4.17.1",
     "glob-all": "3.1.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "passport-trusted-header": "1.1.0",
     "q": "1.4.1",
     "uuid": "3.1.0"
